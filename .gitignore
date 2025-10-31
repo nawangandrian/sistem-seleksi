@@ -126,4 +126,4 @@ nb-configuration.xml
 /.phpunit.*.cache
 
 # File
-Email.php
+/app/Config/Email.php
