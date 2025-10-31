@@ -10,7 +10,7 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
 
-# 🧮 Sistem Seleksi Peserta Pelatihan Berbasis Web — Metode Hybrid AHP + SAW
+# Sistem Seleksi Peserta Pelatihan Berbasis Web — Metode Hybrid AHP + SAW
 
 **UPTD Balai Latihan Kerja (BLK) Kabupaten Kudus**
 
@@ -68,11 +68,12 @@ Email dikirim menggunakan library PHP Mailer dan dikonfigurasi secara manual tan
 
 ## Fitur Aplikasi
 
-- **Login & Manajemen Akun Petugas**
+- **Login & Manajemen Akun Petugas, Peserta, dan Kepala BLK**
 - **Filter Administratif Awal (Syarat Dokumen)**
+- **Menu Kelola Data Peserta, Petugas, Kepala BLK, Pelatihan, dan Soal**
 - **Menu Pengerjaan Tes Pengetahuan**
 - **Menu Penilaian Tes Wawancara**
-- **Perhitungan Seleksi AHP-SAW Otomatis**
+- **Perhitungan Seleksi SAW dan AHP-SAW Otomatis**
 - **Peringkat Peserta Berdasarkan Nilai Akhir**
 - **Notifikasi Email Otomatis ke Peserta**
 - **Dashboard Statistik Seleksi**
